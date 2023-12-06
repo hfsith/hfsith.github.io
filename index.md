@@ -4,7 +4,7 @@ This is my home page! My name is Hannah and I am a student at [Cal State Fullert
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/hfsith.
+My GitHub page can be found [here](http://github.com/hfsith).
 
 ### CPSC 120
 
